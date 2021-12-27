@@ -1,8 +1,8 @@
-<div class="fixed bottom-0 left-0 z-50 w-64 p-6 mb-8 ml-8 font-sans bg-white rounded-lg shadow-2xl js-cookie-consent">
+<div class="fixed bottom-0 left-0 z-50 w-64 p-6 mb-8 ml-8 font-sans bg-black border border-gray-700 rounded-lg shadow-2xl shadow-gray-400/40 js-cookie-consent">
     <div class="relative w-16 mx-auto mb-3 -mt-12">
         <img class="-mt-1" src="{{ asset('/img/cookie.svg') }}" alt="cookie"/>
     </div>
-    <span class="block w-full mb-3 leading-normal text-gray-800 text-md">
+    <span class="block w-full mb-3 leading-normal text-gray-200 text-md">
         {!! trans('cookieConsent::texts.message') !!}
     </span>
     <div class="flex items-center justify-between">
