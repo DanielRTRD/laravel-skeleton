@@ -24,7 +24,6 @@
                 <span class="text-2xl text-orange-400">Infihex</span>
               </a>
               <nav class="flex flex-wrap items-center justify-center text-base text-gray-500 md:ml-auto">
-                <a class="mr-5 hover:text-orange-400" href="https://github.com/Infihex">Github</a>
                 <a class="hover:text-orange-400" href="https://status.infihex.no/">Operational Status</a>
               </nav>
               <!--<button class="inline-flex items-center px-3 py-1 mt-4 text-base bg-gray-600 border-0 rounded focus:outline-none hover:bg-gray-500 md:mt-0">Button
@@ -176,7 +175,12 @@
               <p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0">&copy; 2021 Infihex. All rights reserved.</p>
               </p>
               <span class="inline-flex justify-center mt-4 sm:ml-auto sm:mt-0 sm:justify-start">
-                <a class="text-gray-500 hover:text-orange-400" href="https://www.facebook.com/infihex">
+                <a class="text-gray-500 hover:text-orange-400" href="https://github.com/Infihex">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 1792 1792" class="w-5 h-5">
+                        <path d="M896 128q209 0 385.5 103t279.5 279.5 103 385.5q0 251-146.5 451.5t-378.5 277.5q-27 5-40-7t-13-30q0-3 .5-76.5t.5-134.5q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-119-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-85-13.5q-45 113-8 204-79 87-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-39 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 88.5t.5 54.5q0 18-13 30t-40 7q-232-77-378.5-277.5t-146.5-451.5q0-209 103-385.5t279.5-279.5 385.5-103zm-477 1103q3-7-7-12-10-3-13 2-3 7 7 12 9 6 13-2zm31 34q7-5-2-16-10-9-16-3-7 5 2 16 10 10 16 3zm30 45q9-7 0-19-8-13-17-6-9 5 0 18t17 7zm42 42q8-8-4-19-12-12-20-3-9 8 4 19 12 12 20 3zm57 25q3-11-13-16-15-4-19 7t13 15q15 6 19-6zm63 5q0-13-17-11-16 0-16 11 0 13 17 11 16 0 16-11zm58-10q-2-11-18-9-16 3-14 15t18 8 14-14z"></path>
+                    </svg>
+                </a>
+                <a class="ml-3 text-gray-500 hover:text-orange-400" href="https://www.facebook.com/infihex">
                   <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
                     <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                   </svg>
