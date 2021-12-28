@@ -173,7 +173,7 @@
               <a class="flex items-center justify-center font-bold text-gray-400 md:justify-start">
                 <span class="text-xl text-orange-400">Infihex</span>
               </a>
-              <p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0">&copy; 2022 Infihex. All rights reserved.</p>
+              <p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0">&copy; 2021 Infihex. All rights reserved.</p>
               </p>
               <span class="inline-flex justify-center mt-4 sm:ml-auto sm:mt-0 sm:justify-start">
                 <a class="text-gray-500 hover:text-orange-400" href="https://www.facebook.com/infihex">
