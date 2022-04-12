@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "kiobyteno/laravel-skeleton",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Our preferred stack of packages for Laravel projects",
     "keywords": [
         "framework",
         "laravel"
